@@ -1,5 +1,4 @@
-```yml
-name: Generate Pacman Animation
+name: Generate Pacman
 
 on:
   schedule:
@@ -11,24 +10,24 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  pacman:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman graph
-        uses: abozanona/pacman-contribution-graph@main
-
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Shravanimath
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+          # Pink theme
+          background: "#0D1117"
+          pacman_color: "#ff4da6"
+          dot_color: "#ff99cc"
+          wall_color: "#ff4da6"
 
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
           build_dir: dist
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
