@@ -1,50 +1,118 @@
 <div align="center">
-  <img height="200" src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif"  />
+
+<img src="https://taeluralexis.com/wp-content/uploads/2023/04/uqohmvsr0ilxd9wfb8bi.gif" width="75%" />
+
+# Shravani Math
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF4DA6&center=true&vCenter=true&width=900&lines=Building+Real+World+Projects;Exploring+Blockchain+Development;Always+Learning+New+Technologies" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Shravanimath&label=Profile+Views&color=ff4da6&style=for-the-badge"/>
+
 </div>
 
-###
-# 💫 About Me:
-Hi there, I'm Shravani<br><br>I'm a passionate developer who loves building projects, learning new technologies, and solving problems through code.<br><br>Currently, I'm exploring web development, data structures & algorithms, competitive programming, blockchain development, and creating real-world projects.
+---
 
-###
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shravanim_316/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shravani-math-126039324/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MathShrava81110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravanimath@gmail.com) 
+<div align="center">
 
-###
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+## About Me
+
+Passionate developer who enjoys building projects, solving problems and continuously learning new technologies.
+
+Currently exploring Web Development, Data Structures & Algorithms, Competitive Programming and Blockchain Development.
+
 </div>
 
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shravanimath&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/shravani-math-126039324/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-FF4DA6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shravanim_316/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-FF4DA6?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/MathShrava81110" target="_blank">
+<img src="https://img.shields.io/badge/X-FF4DA6?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:shravanimath@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF4DA6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,c,cpp,java,firebase,git,figma&perline=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Analytics
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shravanimath&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shravanimath&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanimath&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Pacman Contributions
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph.svg">
+
+<img src="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph.svg">
+
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Build • Learn • Solve • Create
+
+</div>
