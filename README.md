@@ -6,10 +6,11 @@
 # 💫 About Me:
 Hi there, I'm Shravani<br><br>I'm a passionate developer who loves building projects, learning new technologies, and solving problems through code.<br><br>Currently, I'm exploring web development, data structures & algorithms, competitive programming, blockchain development, and creating real-world projects.
 
-
-## 🌐 Socials:
+###
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shravanim_316/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shravani-math-126039324/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MathShrava81110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravanimath@gmail.com) 
 
+###
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
