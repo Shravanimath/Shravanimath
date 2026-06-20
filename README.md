@@ -89,11 +89,15 @@ Currently exploring Web Development, Data Structures & Algorithms, Competitive P
 
 <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph-dark.svg">
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph.svg">
 
-<img src="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph.svg">
+<img width="900"
+alt="Pacman Contribution Graph"
+src="https://raw.githubusercontent.com/Shravanimath/Shravanimath/pacman-output/pacman-contribution-graph-dark.svg">
 
 </picture>
 
